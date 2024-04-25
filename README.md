@@ -52,4 +52,4 @@ DQL:
 
 ## How to run
 Due to **Replit** updated, You can run project by _click_  `'Fork & Run'`  _button_ at [Replit here](https://replit.com/@TitiratSuwanrat/AnalyzePizzaRestaurantDatawithSQL#README.md).  
-Replit will _**create a copy and execute**_ project within your workspace. The results will be displayed in the console,  located at main.sql by default.
+Replit will _**create a copy and execute**_ project within your workspace. The results will be displayed in the console,  located at *main.sql* by default. Also, You can view result at *RESULT_IMG.jpg* as well.
