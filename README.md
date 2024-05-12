@@ -52,4 +52,6 @@ DQL:
 
 ## How to run
 Due to **Replit** updated, You can run project by _click_  `'Fork & Run'`  _button_ at [Replit here](https://replit.com/@TitiratSuwanrat/AnalyzePizzaRestaurantDatawithSQL#README.md).  
-Replit will _**create a copy and execute**_ project within your workspace. The results will be displayed in the console,  located at *main.sql* by default. Also, You can view result at *RESULT_IMG.jpg* as well.
+Replit will _**create a copy and execute**_ project within your workspace. The results will be displayed in the console,  located at *main.sql* by default. Also, You can view result at *RESULT_IMG.jpg* as well.<br>
+
+Visit tableau dashboard [here](https://public.tableau.com/views/PizzaSalesanalysis_17154271579650/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
